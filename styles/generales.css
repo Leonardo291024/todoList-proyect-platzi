@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--Very_Dark_Desaturated_Blue);
+    font-family: "Josefin Sans", sans-serif;
+}
+
+main{
+    padding: 15px;
+}
